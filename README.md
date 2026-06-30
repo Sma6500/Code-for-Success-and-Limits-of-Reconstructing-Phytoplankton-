@@ -18,6 +18,7 @@ This repository provides the implementation used for the experiments, analyses, 
 ├── main/Tester/Trainer/Model.py            # Source code, pytorch lightining like for training
 ├── utils/        # Helper scripts
 ├── models/        # Various architectures tested
+├── dataloaders/        # Various dataloaders associated with the different configurations
 └── README.md
 ```
 
@@ -50,4 +51,4 @@ If you use this code in your work, please cite the associated publication:
 
 ## Contact
 
-For questions, suggestions, or bug reports, please open an issue or contact the corresponding author.
+For questions, suggestions, or if you want training details (weights, losses, etc..), please open an issue or contact the corresponding author.
